@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFF0;
+}
+
+#kwadraty > div {
+    height: 100px;
+    width: 100px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #000000;
+}
+
+.second {
+    opacity: .8;
+}
+
+.third {
+    opacity: .4;
+}
+
+.fourth {
+    opacity: .2;
+}
