@@ -2,6 +2,10 @@ body {
     background-color: #FFFFF0;
 }
 
+h1{
+    color: red;
+}
+
 #kwadraty > div {
     height: 100px;
     width: 100px;
@@ -20,4 +24,12 @@ body {
 
 .fourth {
     opacity: .2;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
 }
